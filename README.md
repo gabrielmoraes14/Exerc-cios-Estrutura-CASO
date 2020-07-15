@@ -1,1 +1,1 @@
-# Exerc-cios-Estrutura-CASO
+# Exercicios Estrutura CASO
